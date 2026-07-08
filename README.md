@@ -4,7 +4,8 @@ An AI-powered outbound voice calling solution built using ElevenLabs Conversatio
 
 This project demonstrates how AI voice agents can automate customer interactions, conduct outbound calls, support multiple languages, schedule callbacks, handle escalations, and provide a natural conversational experience.
 
----
+---<img width="562" height="228" alt="Screenshot 2026-07-08 133706" src="https://github.com/user-attachments/assets/194df7c1-e3a1-4345-8d07-516a09ebd9dc" />
+
 
 ## Overview
 
